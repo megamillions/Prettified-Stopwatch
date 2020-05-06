@@ -1,2 +1,5 @@
 # Prettified Stopwatch
- Stopwatch made pretty, and saves to clipboard.
+
+Stopwatch made pretty that saves to clipboard.
+
+Inspired by Al Sweigart's Automate the Boring Stuff with Python: Chapter 15.
